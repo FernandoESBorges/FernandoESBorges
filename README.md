@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Contato
-📧 fernandoeduardosn@gmail.com  
+📧 fernandoeduardos.n@gmail.com  
 💼 www.linkedin.com/in/fernando-borges-621958266
 
 ![Snake animation](https://github.com/FernandoESBorges/FernandoESBorges/blob/output/github-contribution-grid-snake.svg)
