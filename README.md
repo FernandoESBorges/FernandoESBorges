@@ -8,9 +8,16 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
+
+### 🔹 Principal
 - ☕ Java
 - 🗄️ MySQL / PostgreSQL
 - 🔧 Git & GitHub
+
+### 🔹 Conhecimentos básicos
+- 🌐 HTML & CSS
+- 💻 C++
+- ⚙️ C#
 
 ---
 
